@@ -1,0 +1,28 @@
+mat-card {
+    background: #303F9F;
+    color: #fff;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    text-align: left;
+    /* font-family: 'Anton', sans-serif; */
+    /* font-weight: 300; */
+    font-size: 20px;
+    height: 25px;
+    z-index: 100;
+}
+
+.title {
+    padding-left: 7px;
+}
+
+kendo-chat {
+    padding-top: 55px;
+    height: 100%;
+}
+
+.k-message-box {
+    width: 92%;
+    bottom: 0;
+    position: fixed;
+}
